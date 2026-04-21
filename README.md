@@ -1,13 +1,52 @@
-<h1 align="center">Hi 👋, I'm Nandini Tayal</h1>
-<h3 align="center">A passionate backend lead developer from India</h3>
+# Hey, I'm Nandini 👋
 
-- 📫 How to reach me **nandini.tayal@gmail.com**
+Backend Lead Engineer with 7+ years building distributed systems,
+event-driven architectures, and AI-ready backend infrastructure at scale.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nandinitayal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nandinitayal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nandini-tayal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandini-tayal" height="30" width="40" /></a>
-</p>
+Currently exploring the intersection of **backend engineering and AI** —
+building real systems, not demos.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🔧 What I Build
+
+- **Distributed Systems** — Apache Kafka, CDC architectures, 
+  event-driven pipelines at 5M+ records/day
+- **AI Infrastructure** — LLM integrations, agentic AI backends, 
+  RAG pipelines, production AI with retry logic + observability
+- **Backend Engineering** — Java, Spring Boot, microservices, 
+  REST APIs, Saga patterns
+- **Cloud & DevOps** — AWS, Docker, Kubernetes, Prometheus, Grafana
+- **Healthcare Tech** — FHIR, HL7, CCDA-compliant EMR systems at scale
+
+## 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [kafka-log-anomaly-detector](link) | Real-time AI anomaly detection on Kafka log streams | Java · Spring Boot · Kafka · Claude API |
+| [spring-boot-kafka-patterns](link) | Production Kafka patterns from real systems | Java · Spring Boot · Kafka |
+| [fhir-hl7-java-toolkit](link) | Java toolkit for FHIR/HL7 healthcare data | Java · Spring Boot · FHIR |
+
+## 🤝 Open Source
+
+Actively contributing to open source projects in the 
+**Java · Kafka · AI infrastructure** space.
+Always open to collaboration — feel free to open issues or PRs!
+
+## 📊 What I've Built in Production
+
+- CDC pipeline processing **5M+ clinical records/day** (MongoDB → Kafka → S3)
+- **35% reduction** in DB load via async Kafka ingestion architecture
+- FHIR/HL7-compliant EMR ingestion pipelines at enterprise scale
+- Platform modernization: Grails monolith → Spring Boot microservices
+- Observability stack (Grafana + Prometheus) cutting incident response time
+
+## 📝 Writing
+
+I write about backend systems, distributed architecture, and AI at
+[nandinitayal.hashnode.dev](https://nandinitayal.hashnode.dev)
+and on [LinkedIn](https://linkedin.com/in/nandini-tayal)
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nandini-tayal)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nandini.tayal@gmail.com)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://nandinitayal.hashnode.dev)
