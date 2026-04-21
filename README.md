@@ -17,13 +17,6 @@ building real systems, not demos.
 - **Cloud & DevOps** — AWS, Docker, Kubernetes, Prometheus, Grafana
 - **Healthcare Tech** — FHIR, HL7, CCDA-compliant EMR systems at scale
 
-## 🚀 Featured Projects
-
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [kafka-log-anomaly-detector](link) | Real-time AI anomaly detection on Kafka log streams | Java · Spring Boot · Kafka · Claude API |
-| [spring-boot-kafka-patterns](link) | Production Kafka patterns from real systems | Java · Spring Boot · Kafka |
-| [fhir-hl7-java-toolkit](link) | Java toolkit for FHIR/HL7 healthcare data | Java · Spring Boot · FHIR |
 
 ## 🤝 Open Source
 
